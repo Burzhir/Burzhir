@@ -29,7 +29,7 @@ Self-taught penetration tester and cybersecurity enthusiast. I break things to u
 
 ## 🧰 Tools & Skills
 
-`Burp Suite` `nmap` `Wireshark` `Metasploit` `Linux` `Python` `Bash` `SQL` `Git` `Flask`
+`Burp Suite` `nmap` `gobuster` `Wireshark` `Metasploit` `Linux` `Python` `Bash` `SQL` `Git` `Flask`
 
 ---
 

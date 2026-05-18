@@ -15,7 +15,7 @@ Self-taught penetration tester and cybersecurity enthusiast. I break things to u
 
 ## 📂 Featured Projects
 
-- **[HTB Writeups](https://github.com/Burzhir/htb-writeups)** — Documented solutions for Hack The Box machines and PortSwigger labs
+- **[HTB Writeups](https://github.com/Burzhir/htb-writeups)** — Documented solutions for Hack The Box machines and PortSwigger labs.
 - **[Flask Login Lab](https://github.com/Burzhir/flask-login-lab)** — A deliberately vulnerable login page with SQLite. Built, exploited, and patched SQL injection.
 
 ---

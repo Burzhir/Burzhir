@@ -1,21 +1,23 @@
 # Hey, I'm Burzhir 👋
 
-Self-taught penetration tester and cybersecurity enthusiast. I break things to understand how they work, then write about it.
+Self-taught penetration tester, app developer, and API builder. I break things to understand how they work, then build things that are hard to break.
 
 ---
 
 ## 🛠️ What I Do
 
 - **Penetration Testing** — Hack The Box labs, CTF challenges, and vulnerable machine writeups
-- **Web Application Security** — PortSwigger Academy, SQL injection, authentication bypasses
-- **Programming** — Python scripting, Flask web apps, automation tools
-- **Continuous Learning** — Currently pursuing ISC2 CC and working toward eJPT
+- **Web Application Security** — PortSwigger Academy, SQL injection, authentication bypasses, security auditing
+- **Full-Stack & App Development** — Flask APIs, AI integrations, mobile app prototyping with Flutter
+- **Programming** — Python scripting, backend architecture, automation tools
+- **Continuous Learning** — Pursuing ISC2 CC, eJPT, and building my own products
 
 ---
 
 ## 📂 Featured Projects
 
-- **[HTB Writeups](https://github.com/Burzhir/htb-writeups)** — Documented solutions for Hack The Box machines and PortSwigger labs.
+- **[Core API](https://github.com/Burzhir/core-app)** — AI-powered philosophical coaching API. Built with Flask, Groq, and deployed on Render. Includes keyword fallback, rate limiting, and a full security audit.
+- **[HTB Writeups](https://github.com/Burzhir/htb-writeups)** — Documented solutions for Hack The Box machines and PortSwigger labs
 - **[Flask Login Lab](https://github.com/Burzhir/flask-login-lab)** — A deliberately vulnerable login page with SQLite. Built, exploited, and patched SQL injection.
 
 ---
@@ -29,7 +31,7 @@ Self-taught penetration tester and cybersecurity enthusiast. I break things to u
 
 ## 🧰 Tools & Skills
 
-`Burp Suite` `nmap` `gobuster` `Wireshark` `Metasploit` `Linux` `Python` `Bash` `SQL` `Git` `Flask`
+`Burp Suite` `nmap` `gobuster` `Wireshark` `Metasploit` `Linux` `Python` `Bash` `SQL` `Git` `Flask` `Render` `Groq` `Flutter`
 
 ---
 

@@ -17,6 +17,7 @@ Self-taught penetration tester, app developer, and API builder. I break things t
 ## 📂 Featured Projects
 
 - **[Core API](https://github.com/Burzhir/core-app)** — AI-powered philosophical coaching API. Built with Flask, Groq, and deployed on Render. Includes keyword fallback, rate limiting, and a full security audit.
+- **[CORE Mobile App](https://github.com/Burzhir/core-app-flutter)** — Flutter app that diagnoses your mindset using 15+ philosophies. Multi-tab shell (Today, Diagnose, Library, Journal, Profile), local journal persistence, daily challenges, streak tracking, and API integration with Core API.
 - **[HTB Writeups](https://github.com/Burzhir/htb-writeups)** — Documented solutions for Hack The Box machines and PortSwigger labs
 - **[Flask Login Lab](https://github.com/Burzhir/flask-login-lab)** — A deliberately vulnerable login page with SQLite. Built, exploited, and patched SQL injection.
 
@@ -31,7 +32,7 @@ Self-taught penetration tester, app developer, and API builder. I break things t
 
 ## 🧰 Tools & Skills
 
-`Burp Suite` `nmap` `gobuster` `Wireshark` `Metasploit` `Linux` `Python` `Bash` `SQL` `Git` `Flask` `Render` `Groq` `Flutter`
+`Burp Suite` `nmap` `gobuster` `Wireshark` `Metasploit` `Linux` `Python` `Bash` `SQL` `Git` `Flask` `Render` `Groq` `Flutter` `Dart` `Provider` `SharedPreferences`
 
 ---
 

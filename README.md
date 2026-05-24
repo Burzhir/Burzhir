@@ -63,6 +63,5 @@ Documented solutions for Hack The Box machines and web security labs.
 ## 📫 Connect
 
 - **Discord:** `#bruxhir`  
-- **GitHub:** You're already here
 
 *"The quieter you become, the more you can hear."*

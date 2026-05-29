@@ -9,7 +9,7 @@ I break things to understand how they work, then build things that are hard to b
 
 - **Penetration Testing** – HTB labs, CTF challenges, vulnerable machine writeups, and real-world recon
 - **Web Application Security** – PortSwigger Academy, SQLi, auth bypasses, security auditing
-- **Full-Stack & App Development** – Flask APIs, Groq AI, Flutter mobile apps with rich custom UIs
+- **Full-Stack & App Development** – Flask APIs, OpenRouter AI, Flutter mobile apps with rich custom UIs
 - **AI-Powered Tooling** – Prompt-engineered coaching APIs, local fallback pipelines, AI-assisted philosophy diagnosis
 - **Continuous Learning** – ISC2 CC, eJPT, and building products that fuse security with meaning
 
@@ -17,21 +17,25 @@ I break things to understand how they work, then build things that are hard to b
 
 ## 📂 Featured Projects
 
-### ⚡ CORE Mobile App *(Flutter)*  
-A multi-tab philosophy companion that diagnoses your mindset using 30+ philosophical frameworks.  
-- **AI Diagnosis:** Groq-powered analysis with keyword fallback  
-- **Onboarding Quiz:** Maps your struggles to a primary philosophy  
-- **Deep-Dive Library:** Rich content — overview, historical context, key teachings, quotes  
-- **Generative Art:** Unique animated visuals for each philosophy created with `CustomPainter`  
-- **Journal & Streaks:** Local persistence, daily challenges, mood tracking  
-- **Tech:** Flutter, Dart, Provider, SharedPreferences, REST API, Groq SDK
+### ⚡ CORE: Forge Yourself *(Flutter – Early Access)*  
+A multi-tab philosophy companion that diagnoses your mindset using 21 philosophical isms and delivers personalized, AI‑powered guidance.  
 
-### 🧠 Core API *(Flask + Groq)*  
+- **AI Diagnosis:** OpenRouter‑powered analysis with intelligent keyword fallback  
+- **Onboarding Quiz:** Maps your struggles to a primary philosophical framework  
+- **Deep-Dive Library:** Rich content — overview, historical context, core tenets, notable figures, quotes, and key works  
+- **Generative Art:** Unique animated visuals for each philosophy, created entirely with `CustomPainter`  
+- **Journal & Streaks:** Hive‑backed local persistence, daily challenges, mood tracking  
+- **Theme Switching:** Full dark/light mode support with custom theme extensions  
+- **Offline Caching:** Instant loads for daily philosophy and last diagnosis  
+- **Upcoming:** Firebase Auth, Firestore sync, RevenueCat subscriptions (Pro tier)  
+- **Tech:** Flutter, Dart, Provider, Hive, OpenRouter API, Flask, Render, Firebase, RevenueCat  
+
+### 🧠 Core API *(Flask + OpenRouter)*  
 AI philosophical coaching API with multiple endpoints.  
-- Groq LLM integration for dynamic responses  
-- Keyword-based fallback system for offline reliability  
+- OpenRouter integration for dynamic, AI‑driven responses  
+- Weighted keyword fallback system for offline reliability  
 - Rate limiting, security auditing, and health check endpoints  
-- Deployed on Render
+- Deployed on Render  
 
 ### ⚙️ Flask Login Lab  
 A deliberately vulnerable login page with SQLite — built, exploited, and patched.  
@@ -53,10 +57,11 @@ Documented solutions for Hack The Box machines and web security labs.
 
 **Security:** Burp Suite · Nmap · Gobuster · Wireshark · Metasploit · SQLmap  
 **Languages:** Python · Dart · Bash · SQL · HTML/CSS  
-**Frameworks:** Flutter · Flask · Provider · SharedPreferences  
-**AI/LLM:** Groq · Prompt Engineering · API Integration  
+**Frameworks:** Flutter · Flask · Provider · Hive  
+**AI/LLM:** OpenRouter · Prompt Engineering · API Integration  
 **Creative:** CustomPaint · Animations · Generative Art  
-**DevOps:** Git · Render · REST API Design  
+**DevOps:** Git · Render · Firebase · RevenueCat  
+**Backend:** REST API Design · Rate Limiting · CORS · Health Checks  
 
 ---
 

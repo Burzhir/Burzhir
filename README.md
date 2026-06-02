@@ -39,10 +39,6 @@ A deliberately vulnerable login page with SQLite — built, exploited, and patch
 ### 🧪 HTB & PortSwigger Writeups
 Documented solutions for Hack The Box machines and web security labs.
 
-## 📜 Certifications (In Progress)
-- ISC2 Certified in Cybersecurity (CC)
-- eLearnSecurity Junior Penetration Tester (eJPT)
-
 ## 🧰 Tools & Skills
 **Mobile & Backend** – Flutter · Dart · Flask · Provider · Hive · Firebase · RevenueCat  
 **AI/LLM** – OpenRouter · Prompt Engineering · Model rotation · Fallback pipelines  

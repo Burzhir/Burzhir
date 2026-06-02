@@ -1,42 +1,40 @@
 Hey, I'm Burzhir 👋  
-App developer · API builder · Aspiring Penetration Tester
+App developer, API architect, and Aspiring Pen tester.  
 
 I break things to understand how they work, then build things that are hard to break.
 
 ## 🛠️ What I Do
-- **Penetration Testing** – HTB labs, CTF challenges, vulnerable machine writeups, real‑world recon  
-- **Web Application Security** – PortSwigger Academy, SQLi, auth bypasses, security auditing  
-- **Full‑Stack & App Development** – Flask APIs, OpenRouter AI, Flutter mobile apps with rich custom UIs  
-- **AI‑Powered Tooling** – Prompt‑engineered coaching APIs, local fallback pipelines, AI‑assisted philosophy diagnosis  
-- **Continuous Learning** – ISC2 CC, eJPT, and building products that fuse security with meaning
+- **Mobile & Full‑Stack Development** – Flutter apps with polished UIs, custom animations, Firebase, and RevenueCat  
+- **AI‑Powered APIs** – Prompt‑engineered LLM coaching, multi‑model rotation, and local fallback systems  
+- **Backend Architecture** – Clean Flask APIs, rate limiting, CORS, environment‑based security, blueprint‑separated services  
+- **Security Testing** – Working through Hack The Box, CTFs, and PortSwigger labs to apply a security lens to everything I build  
+- **Web Security** – SQL injection, authentication flaws, and secure coding practices — because shipping code is one thing; making it hard to break is another
 
 ## 📂 Featured Projects
 
 ### ⚡ CORE: Forge Yourself (Flutter – Early Access)
-A multi‑tab philosophy companion that diagnoses your mindset using **12 curated philosophical frameworks** and delivers personalised, AI‑powered guidance.
+A multi‑tab philosophy companion that diagnoses your mindset using 12 curated philosophical frameworks and delivers personalised, AI‑powered guidance.
 
-- **AI Diagnosis** – OpenRouter‑powered analysis with intelligent keyword fallback (never goes dark even when the AI does)  
-- **Onboarding Quiz** – Maps your struggles to a primary philosophical framework  
-- **Deep‑Dive Library** – Rich content: overview, historical context, core tenets, notable figures, quotes, and key works  
-- **Generative Art** – Unique animated visuals for each philosophy, created entirely with CustomPainter  
+- **AI Diagnosis** – OpenRouter‑powered analysis with intelligent keyword fallback (never dark)  
+- **Onboarding Quiz** – Maps your struggles to a primary philosophy  
+- **Deep‑Dive Library** – Rich content, historical context, quotes, key works  
+- **Generative Art** – CustomPainter‑created animated visuals for each philosophy  
 - **Journal & Streaks** – Firestore‑backed journal, daily challenges, mood tracking  
-- **Theme Switching** – Full dark/light mode support with custom theme extensions  
-- **Offline Caching** – Instant loads for daily philosophy and last diagnosis  
-- **Tech** – Flutter, Dart, Provider, Firestore, RevenueCat (soon), Flask API, OpenRouter, Render
+- **Theme Switching** – Full dark/light mode support  
+- **Offline Caching** – Instant loads for daily content  
+- **Tech** – Flutter, Dart, Provider, Firestore, RevenueCat, Flask API, OpenRouter, Render
 
 ### 🧠 CORE API (Flask + OpenRouter)
-The engine behind CORE – a resilient, AI‑driven philosophy coaching API with zero cost and zero downtime.
+The resilient, zero‑cost AI engine behind CORE — designed to never break, no matter the load.
 
-- **OpenRouter integration** – Multi‑model rotation across **20+ free LLMs**, with automatic fallback
-- **Time‑budget model selection** – Prioritises fast, reliable models; cuts over to keyword fallback within seconds if all AI endpoints are rate‑limited
-- **Weighted keyword fallback** – Matches 12 philosophies from user input when AI is unavailable, ensuring the core feature never breaks
-- **Architecture** – Blueprint‑separated endpoints (`/api/chat`, `/api/analyze`, `/api/diagnose`), services layer, uniform JSON error handling with request IDs, and production‑ready WSGI support
-- **Rate limiting & security** – Per‑endpoint rate limits, CORS, input validation, max payload size, and environment‑based secrets
-- **Deployed on Render** – Fully serverless‑compatible, zero‑maintenance hosting
+- **Multi‑model rotation** – Cycles through 20+ free LLMs automatically, with a time‑budgeted fallback  
+- **Weighted keyword matching** – Hand‑crafted fallback that diagnoses 12 philosophies purely from user text, no AI required  
+- **Clean architecture** – Blueprints, services, utils, uniform JSON errors with request IDs, WSGI‑ready for production  
+- **Rate limiting & security** – Per‑endpoint limits, CORS, max payload protection, environment‑based secrets  
+- **Deployed on Render** – Zero maintenance, zero cost
 
 ### ⚙️ Flask Login Lab
-A deliberately vulnerable login page with SQLite — built, exploited, and patched.  
-Demonstrates SQL injection techniques and secure coding practices.
+A deliberately vulnerable login page with SQLite — built, exploited, and patched. Demonstrates SQL injection techniques and secure coding practices.
 
 ### 🧪 HTB & PortSwigger Writeups
 Documented solutions for Hack The Box machines and web security labs.
@@ -46,12 +44,12 @@ Documented solutions for Hack The Box machines and web security labs.
 - eLearnSecurity Junior Penetration Tester (eJPT)
 
 ## 🧰 Tools & Skills
+**Mobile & Backend** – Flutter · Dart · Flask · Provider · Hive · Firebase · RevenueCat  
+**AI/LLM** – OpenRouter · Prompt Engineering · Model rotation · Fallback pipelines  
+**Languages** – Python · Dart · Bash · SQL 
 **Security** – Burp Suite · Nmap · Gobuster · Wireshark · Metasploit · SQLmap  
-**Languages** – Python · Dart · Bash · SQL · HTML/CSS  
-**Frameworks** – Flutter · Flask · Provider · Hive  
-**AI/LLM** – OpenRouter · Prompt Engineering · Model rotation · Local fallback pipelines  
 **Creative** – CustomPaint · Animations · Generative Art  
-**Backend/DevOps** – REST API Design · Rate Limiting · CORS · Render · Firebase · RevenueCat · Blueprint architecture
+**DevOps** – Git · Render · REST API Design
 
 ## 📫 Connect
 Discord: **#bruxhir**
